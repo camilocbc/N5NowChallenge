@@ -12,7 +12,7 @@ Pruebas de regresion funcional sobre el sitio web de netflix principalmente inte
 
 ## Instalación
 
-1. Clonar el proyecto, desde el repositorio en github [Ruta Repositorio]().
+1. Clonar el proyecto, desde el repositorio en github [Ruta Repositorio](https://github.com/camilocbc/N5NowChallenge).
 2. Situarse en la carpeta del proyecto.
 3. Abrir el proyecto desde el IDE.
 4. Ejecutar la instalacion de las dependencias de MAVEN con el comando `mvn install` o ejecutando el archivo pom.xml.
